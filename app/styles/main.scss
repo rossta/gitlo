@@ -1,0 +1,15 @@
+$padding: 20px;
+body {
+  padding: $padding;
+}
+
+.badge {
+  &.badge-shirt {
+    padding: 0 4px;
+    border: 1px solid black;
+    background-color: purple;
+    .badge-text {
+      color: white;
+    }
+  }
+}

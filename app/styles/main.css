@@ -1,0 +1,15 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ross\/projects\/helloworld\/chrome\/gitlo\/app\/styles\/main\.scss}line{font-family:\000032}}
+body {
+  padding: 20px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ross\/projects\/helloworld\/chrome\/gitlo\/app\/styles\/main\.scss}line{font-family:\000037}}
+.badge.badge-shirt {
+  padding: 0 4px;
+  border: 1px solid black;
+  background-color: purple;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ross\/projects\/helloworld\/chrome\/gitlo\/app\/styles\/main\.scss}line{font-family:\0000311}}
+.badge.badge-shirt .badge-text {
+  color: white;
+}

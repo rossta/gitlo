@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Gitlo",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "The missing link between GitHub and Trello.",
+    "description": "The description of the application"
+  }
+}
