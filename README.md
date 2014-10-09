@@ -9,14 +9,14 @@ The add is built on top of [yeoman](http://yeoman.io/) and the [yeoman-generator
 
 Requirements:
 
-* npm, package manager that comes bundled with [node.js][nodej]
+* npm, package manager that comes bundled with node.js
 * yo, CLI scaffolding tool for yeoman
 * grunt, the build tool
 * bower, package manager for front-end dependencies
 
 Setup:
 
-Install [node.js][nodejs]. Then setup local repo:
+Install (node.js)http://nodejs.org]. Then setup local repo:
 
 ```
 $ npm install -g yo bower grunt
