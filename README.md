@@ -32,4 +32,5 @@ You may instead want to use the [Chrome Apps & Extension Tools App](https://chro
 
 For more info on developing chrome extensions, visit [Getting Started: Building
 a Chrome Extension](https://developer.chrome.com/extensions/getstarted)
-[nodejs][http://nodejs.org]
+
+[nodejs]: [http://nodejs.org]
